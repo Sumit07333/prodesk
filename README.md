@@ -6,7 +6,7 @@ A responsive digital-marketing landing page built with semantic HTML, raw CSS, a
 
 - GitHub repository: https://github.com/Sumit07333/prodesk
 - Live website: https://prodesk-pbym.vercel.app
-- Demo video: _Add the 2–3 minute video URL before submission_
+- Demo video: https://drive.google.com/file/d/1Mw547_NM5KRDUodWCMi17qM9QSY0XDz_/view?usp=drivesdk
 
 ## Features
 
